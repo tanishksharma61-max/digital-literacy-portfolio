@@ -108,7 +108,3 @@ The project includes **five key tasks**, covering infographic design, portfolio 
 This project enhanced my digital literacy, professional communication, and problem-solving skills. It emphasized the **importance of safe, responsible, and effective use of technology** in both academic and professional settings.
 
 ---
-
-If you want, I can also make a **shorter, crisp version** of this README that looks super clean on GitHub and grabs attention fast. It’ll be like *professional, but not boring*.
-
-Do you want me to do that too?
