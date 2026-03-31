@@ -1,6 +1,5 @@
 # digital-literacy-portfolio
 Digital Literacy Project (CSE0001)
-Got you! Here's a slightly refreshed version of your README—same info, just polished, organized, and a bit more engaging:
 
 ---
 
